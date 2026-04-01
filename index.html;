@@ -4,14 +4,14 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="Personal website for Arjun.">
+  <meta name="description" content="Personal website for meeeeeeeeee.">
   <title>Arjun Patil</title>
   <link rel="stylesheet" href="stylesheet.css">
 </head>
 <body>
   <div class="section" id="intro">
     <h1>Arjun Patil</h1>
-    <p>Welcome to my personal website.</p>
+    <p>Welcome to my website.</p>
   </div>
 
   <div class="section">
@@ -22,8 +22,8 @@
 
   <div class="section">
     <h2>My Interests</h2>
-    <img src="https://via.placeholder.com/200" alt="Placeholder image">
-    <p>I enjoy learning about embedded systems and web development.</p>
+    <img src="data:image/png;base64,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" alt="Heres an image about me">
+    <p>I enjoy learning about different stuff.</p>
   </div>
 </body>
 </html>
