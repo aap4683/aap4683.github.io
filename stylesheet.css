@@ -1,1 +1,29 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  margin: 0;
+  padding: 20px;
+}
 
+h1 {
+  color: darkblue;
+}
+
+.section {
+  background-color: white;
+  margin: 20px 0;
+  padding: 20px;
+  border: 2px solid #ccc;
+}
+
+#intro {
+  background-color: #dfefff;
+}
+
+a {
+  color: blue;
+}
+
+a:hover {
+  color: red;
+}
